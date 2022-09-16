@@ -15,3 +15,9 @@ Calculator is a Java and JavaFX GUI application. This app displays a basic calcu
 ### Challenges I ran into:
 
 Creating the GUI and all the functions was easy, but I had to take care of exceptional cases, such as division by 0, negative numbers, and user mistakes, like begining a number with 0, or typing more than one computation sign. 
+
+![Calculator1](https://github.com/tudormihail5/Calculator/blob/main/Screenshot1.png)
+
+![Calculator2](https://github.com/tudormihail5/Calculator/blob/main/Screenshot2.png)
+
+![Calculator3](https://github.com/tudormihail5/Calculator/blob/main/Screenshot3.png)
