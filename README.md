@@ -18,6 +18,12 @@ Creating the GUI and all the functions was easy, but I had to take care of excep
 
 ![Calculator1](https://github.com/tudormihail5/Calculator/blob/main/Screenshot1.png)
 
+The calculator is initially turned off.
+
 ![Calculator2](https://github.com/tudormihail5/Calculator/blob/main/Screenshot2.png)
 
+The user tries to compute 5/0, and the program displays the message.
+
 ![Calculator3](https://github.com/tudormihail5/Calculator/blob/main/Screenshot3.png)
+
+The user computes 12/5, and clicks '='.
